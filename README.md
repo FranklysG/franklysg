@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-<!--
-**FranklysG/franklysg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋
 
-Here are some ideas to get you started:
+My name is Franklys Guimaraes, I'm from Brazil. 🇧🇷 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
+
+- 📌 From São Raimundo das Mangabeiras - MA
+- 👨‍💻 FullStack Developer
+- ✨ I'm here to help and learn
+- 🗺️ And I also love to travel
+
+## Reach me out👇
+[![Linkedin Badge](https://img.shields.io/badge/-Stephan%20Fonseca-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franklys-guimar%C3%A3es-3b9982169/)](https://www.linkedin.com/in/franklys-guimar%C3%A3es-3b9982169/) [![Instagram Badge](https://img.shields.io/badge/-Stephan_Fonseca-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklysg/)](https://www.instagram.com/franklysg/)
