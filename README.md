@@ -15,7 +15,6 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 ### Favorite technologies:
 <p align="left">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" width="40" height="40"/></code>
-<code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="ARDUINO" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/></code>
@@ -35,11 +34,11 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact" alt="franklysg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact" alt="franklysg" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&locale=en" alt="franklysg" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&locale=en" alt="franklysg" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&" alt="franklysg" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&" alt="franklysg" /></p>
 
 
 ## Reach me out👇
