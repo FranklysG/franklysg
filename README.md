@@ -34,11 +34,11 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact" alt="franklysg" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact" alt="franklysg" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&locale=en" alt="franklysg" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&locale=en" alt="franklysg" /></p>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&" alt="franklysg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&" alt="franklysg" /></p>
 
 
 ## Reach me out👇
