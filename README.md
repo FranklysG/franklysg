@@ -31,14 +31,11 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="POSTMAN" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="UNITY" width="40" height="40"/></code>
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact" alt="franklysg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&locale=en" alt="franklysg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&" alt="franklysg" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact" alt="franklysg" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&locale=en" alt="franklysg" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&" alt="franklysg" />
 
 
 ## Reach me out👇
