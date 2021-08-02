@@ -14,7 +14,6 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 
 ### Favorite technologies:
 <p align="left">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" width="40" height="40"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="ARDUINO" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/></code>
