@@ -31,12 +31,17 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="UNITY" width="40" height="40"/></code>
 </p>
 
-<p align="left">
+<p  align="center">
+  <a href="https://github.com/franklysg">
+  <code><img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></code>
+  <code><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklysg&layout=compact&langs_count=16&theme=dark"/></code>
+</p>
+<!-- <p align="left">
     <code><img width="47%" src="https://github-readme-stats.vercel.app/api?username=franklysg&theme=dark&show_icons=true&locale=en" alt="franklysg" /></code>
     <!-- <code><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact&theme=dark" alt="franklysg" /></code> -->
-    <code><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&theme=dark" alt="franklysg" /></code>
+<!--     <code><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&theme=dark" alt="franklysg" /></code> -->
 </p>
-
+ -->
 ## Reach me out👇
 [![Linkedin Badge](https://img.shields.io/badge/likedin-Franklys_Guimar%C3%A3es-2021?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franklys-guimar%C3%A3es-3b9982169/)](https://www.linkedin.com/in/franklys-guimar%C3%A3es-3b9982169/) [![Instagram Badge](https://img.shields.io/badge/instagram-franklysg-2021?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklysg/)](https://www.instagram.com/franklysg/) [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-franklysg-2021?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5599984536274)](https://wa.me/5599984536274)
 
