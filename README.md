@@ -32,9 +32,8 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 </p>
 
 <p align="left">
-    <code><img width="47%" src="https://github-readme-stats.vercel.app/api?username=franklysg&theme=dark&show_icons=true&locale=en" alt="franklysg" /></code>
-    <!-- <code><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklysg&show_icons=true&locale=en&layout=compact&theme=dark" alt="franklysg" /></code> -->
-    <code><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=franklysg&theme=dark" alt="franklysg" /></code>
+    <code><img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></code>
+  <code><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklysg&layout=compact&langs_count=16&theme=dark"/></code>
 </p>
 
 ## Reach me out👇
