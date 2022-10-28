@@ -36,7 +36,7 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
   <code><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklysg&layout=compact&langs_count=16&theme=dark"/></code>
 </p>
 
-![Snake animation](https://github.com/franklysg/franklysg/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/franklysg/franklysg/blob/output/github-contribution-grid-snake.svg) -->
 
 [![Franklys Guimaraes's github activity graph](https://activity-graph.herokuapp.com/graph?username=franklysg&bg_color=0d101700&color=fff&line=c2c2c2&point=fff&area=true&hide_border=true)](https://github.com/franklysg/github-readme-activity-graph)
 
