@@ -30,16 +30,10 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 </p>
 
+<code>![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ogf99ayqg75f5sh9b9nxofctd&unique=true&width=850)</code>
 
-<p align="left">
-    <code><img height="190em" src="https://github-readme-stats.vercel.app/api?username=franklysg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></code>
-  <code><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklysg&layout=compact&langs_count=16&theme=dark"/></code>
-</p>
-
-<!-- ![Snake animation](https://github.com/franklysg/franklysg/blob/output/github-contribution-grid-snake.svg) -->
-
-[![Franklys Guimaraes's github activity graph](https://activity-graph.herokuapp.com/graph?username=franklysg&bg_color=0d101700&color=fff&line=c2c2c2&point=fff&area=true&hide_border=true)](https://github.com/franklysg/github-readme-activity-graph)
+![Snake animation](https://github.com/franklysg/franklysg/blob/output/github-contribution-grid-snake.svg)
 
 ## Reach me out👇
-[![Linkedin Badge](https://img.shields.io/badge/likedin-Franklys_Guimar%C3%A3es-2021?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franklysg/)](https://www.linkedin.com/in/franklysg/) [![Instagram Badge](https://img.shields.io/badge/instagram-franklysg-2021?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklysg/)](https://www.instagram.com/franklysg/) [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-franklysg-2021?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5599984536274)](https://wa.me/5599984536274) ![Profile views](https://gpvc.arturio.dev/franklysg)
+[![Linkedin Badge](https://img.shields.io/badge/likedin-Franklys_Guimar%C3%A3es-2021?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franklysg/)](https://www.linkedin.com/in/franklysg/) [![Instagram Badge](https://img.shields.io/badge/instagram-franklysg-2021?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklysg/)](https://www.instagram.com/franklysg/) [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-franklysg-2021?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5599984536274)](https://wa.me/5599984536274)
 
